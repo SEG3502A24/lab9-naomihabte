@@ -1,4 +1,4 @@
-package seg3x02.converter
+package seg3x02.tempconverterapi
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
